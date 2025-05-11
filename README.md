@@ -1,4 +1,4 @@
-Calculation of Precision Measure in Link Prediction
+Calculation of Precision Measure in Link Prediction.
 If you use this code in your research or projects, please cite the associated article:
 
 Title [https://doi.org/10.1016/j.engappai.2024.108641]
