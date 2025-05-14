@@ -3,7 +3,7 @@ If you use this code in your research or projects, please cite the associated ar
 
 Title [https://doi.org/10.1016/j.engappai.2024.108641]
 For your convenience, here is a BibTeX entry for citation:
-
+```
 @article{mahmoodi2024enhancing,
   title={Enhancing link prediction through adversarial training in deep Nonnegative Matrix Factorization},
   author={Mahmoodi, Reza and Seyedi, Seyed Amjad and Abdollahpouri, Alireza and Tab, Fardin Akhlaghian},
@@ -13,5 +13,5 @@ For your convenience, here is a BibTeX entry for citation:
   year={2024},
   publisher={Elsevier}
 }
-
+```
 We sincerely appreciate proper attribution, as it supports ongoing research.
